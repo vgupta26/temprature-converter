@@ -62,6 +62,7 @@ public class MainActivity extends AppCompatActivity {
                     T1.setBackgroundColor(getResources().getColor(R.color.cold));
                     //Toast.makeText(getApplicationContext(), "Extreme Cold",Toast.LENGTH_SHORT).show();
                 }
+
             }
             @Override
             public void onStartTrackingTouch(SeekBar S1) {}
